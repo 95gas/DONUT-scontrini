@@ -1,7 +1,7 @@
 ## STEPS PER ESEGUIRE
 Per eseguire lo script si deve eseguire i seguenti passi:
 
-1. Aprire il prompt dei commandi e posizionarsi nella cartella 'assets'. Scaricare il model eseguendo le due istruzioni:\
+1. Aprire il prompt dei commandi e posizionarsi nella cartella 'assets'. Scaricare il model eseguendo le due istruzioni:
    * git lfs install
    * git clone https://huggingface.co/95gas/DONUT-model
 
