@@ -18,7 +18,7 @@ def read_version():
 
 
 def read_long_description():
-    path = os.path.join(ROOT, "README.md")
+    path = os.path.join(ROOT, "README.txt")
     with open(path, "r", encoding="utf-8") as f:
         text = f.read()
     return text
