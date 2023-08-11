@@ -5,9 +5,10 @@ Per eseguire lo script si deve eseguire i seguenti passi:
    * git lfs install
    * git clone https://huggingface.co/95gas/DONUT-model
 
-3. Posizionarsi nel root della cartella ed eseguire il commando
+2. Posizionarsi nel root della cartella ed eseguire il commando
    * pip install .
-5. Eseguire lo script
+     
+3. Eseguire lo script
    * python main.py
 
 Per testare il programma, le immagini devono essere inserite nella cartella 'test'. Successivamente, il programma leggerà tutte le immagini contenute nella cartella e le processerà ritornando a schermo i risultati. 
