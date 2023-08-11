@@ -47,7 +47,7 @@ def check_municipality(CAP, address):
 def main():
     
     # call model
-    model = DonutModel.from_pretrained("assets/model")
+    model = DonutModel.from_pretrained("assets/DONUT-model")
     if torch.cuda.is_available():
         model.half()
         device = torch.device("cuda")
