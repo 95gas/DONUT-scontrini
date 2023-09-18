@@ -7,11 +7,13 @@ Per eseguire lo script si deve eseguire i seguenti passi:
 
 2. Posizionarsi nel root della cartella ed eseguire il commando
    * pip install .
+  
+3. Inserire le immagini degli scontrini nella cartella 'test'
      
-3. Eseguire lo script
+3. Eseguire lo script. Il programma leggerà tutte le immagini contenute nella cartella 'test' e le processerà ritornando a schermo i risultati. 
    * python main.py
 
-Per testare il programma, le immagini devono essere inserite nella cartella 'test'. Successivamente, il programma leggerà tutte le immagini contenute nella cartella e le processerà ritornando a schermo i risultati. 
+
 
 
 ## RUN ON COLAB
