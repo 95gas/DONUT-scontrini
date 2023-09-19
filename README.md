@@ -13,7 +13,8 @@ Per eseguire lo script si deve eseguire i seguenti passi:
 3. Eseguire lo script. Il programma leggerà tutte le immagini contenute nella cartella 'test' e le processerà una ad una ritornando a schermo i risultati. 
    * python main.py
 
-
+## Example result
+![Esempio risultato di un scontrino](https://github.com/95gas/DONUT-scontrini/blob/main/example.png)
 
 
 ## RUN ON COLAB
